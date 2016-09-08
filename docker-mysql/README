@@ -1,0 +1,2 @@
+docker pull mysql/mysql-server
+docker run --name docker-mysql -e MYSQL_ROOT_PASSWORD=root -d mysql/mysql-server:lasest
