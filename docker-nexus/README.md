@@ -1,3 +1,3 @@
 # docker-nexus
-## ÔËĞĞÃüÁî
+## è¿è¡Œå‘½ä»¤
 docker run -d --name=docker-nexus -v /nexus-work:/usr/local/sonatype-work -p 8081:8081 centos:nexus
